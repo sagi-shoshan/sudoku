@@ -1,2 +1,2 @@
 # sudoku
-final project - C
+School project - C
